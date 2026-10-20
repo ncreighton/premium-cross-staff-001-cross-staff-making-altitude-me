@@ -1,0 +1,2 @@
+# premium-cross-staff-001-cross-staff-making-altitude-me
+Ever assembled a cross staff only to realize you can't recall the precise altitude adjustments you made last week? Stop the guesswork and track every measurement with laser focus.  This Notion template eliminates the chaos of scattered notes and forgotten calibrations by providing a centralized, visual altitude measurement tracker. It’s built speci
